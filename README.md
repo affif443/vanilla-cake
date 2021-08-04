@@ -1,1 +1,1 @@
-# vanilla-cake
+# VanillaCake
